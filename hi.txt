@@ -1,2 +1,4 @@
 hello world!
 hi, i'm learn git
+yarik my best friend
+veronika my girl friend
